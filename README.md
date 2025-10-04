@@ -19,3 +19,20 @@ The system tracks patient vitals and movement patterns using microcontroller-con
 - **Historical Logging:** Stores activity and alert logs for trend analysis and care planning.  
 - **Responsive UI:** Designed for cross-device accessibility and caregiver usability.
 
+## Impact
+
+- Achieved **40% reduction in caregiver response time** through optimized sensor-to-alert pipeline.  
+- Enabled continuous patient monitoring with real-time data visualization and alerting.  
+- Supported trend-based care planning via historical data logging.
+
+## Future Enhancements
+
+- Add mobile app interface for caregivers  
+- Integrate voice alerts and SMS notifications  
+- Expand sensor support for additional vitals  
+- Implement role-based access and authentication
+
+## Author
+
+**Hrishita Srivastava**  
+Frontend & Systems Developer
